@@ -1,4 +1,4 @@
 # ci-lgtm
 
-## setting
+## settings
 
