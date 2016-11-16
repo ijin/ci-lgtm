@@ -2,3 +2,5 @@
 
 ## settings
 
+`master` - lgtm.co
+`release` - required review
